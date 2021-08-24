@@ -8,19 +8,19 @@ Web application developed to learning react concepts. This application allows to
 
 
 # <span id="head1">1. Blog Images<span/>
-### Login Page
+## 1.1. Login Page
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/login_page.PNG)
 
-### Listing Posts
+## 1.2. Listing Posts
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/blog_presentation.png)
 
-### Updating the User Settings
+## 1.3. Updating the User Settings
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/settings.PNG)
 
-### Writting a New Post
+## 1.4. Writting a New Post
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/writting_post.PNG)
 
-### Updating a Post
+## 1.5. Updating a Post
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/editting_post.PNG)
 
 # <span id="head2">2. Technologies<span/>
