@@ -1,6 +1,6 @@
 # BlogReactJS
 
-Web application developed to learning react concepts. This application allows to create, read, update and delete (CRUD) posts. All posts are stored using Mongo db. Besides that, there are registration and login pages to control the user session. To understand the BlogReactJs application, follow this structure:
+Web application developed to learning React Js concepts. This application allows to create, read, update and delete (CRUD) posts. All posts are stored using Mongo db. Besides that, there are registration and login pages to control the user session. To understand the BlogReactJs application, follow this structure:
 
 1. [Blog Images](#head1)
 2. [Technologies](#head2)
