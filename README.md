@@ -3,13 +3,12 @@
 Web application developed to learning react concepts. This application allows create, read, update and delete (CRUD) posts. All posts are stored using Mongo.db. Besides that, there are registration and login page to control the user session. 
 To understand the BlogReactJs application, follow this structure:
 
-[TOC]
-# Blog Images
-# Technologies
-# How to run
+* [Blog Images](#head1)
+* [Technologies](#head2)
+* [How to run](#head3)
 
 
-# Blog Images
+# <span id="head1">Blog Images<span/>
 ### Login Page
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/login_page.PNG)
 
@@ -25,7 +24,7 @@ To understand the BlogReactJs application, follow this structure:
 ### Updating a Post
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/editting_post.PNG)
 
-# Technologies
+# <span id="head2">Technologies<span/>
 * API
   * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
   * [cors](https://github.com/expressjs/cors#readme)
@@ -41,7 +40,7 @@ To understand the BlogReactJs application, follow this structure:
   * [react-router-dom](https://github.com/ReactTraining/react-router#readme)
   * [styled-components](https://styled-components.com/)
 
-# How to run
+# <span id="head3">How to run<span/>
 ```
 # Cloning the repository
 $ https://github.com/GustavoHFMO/BlogReactJS.git
