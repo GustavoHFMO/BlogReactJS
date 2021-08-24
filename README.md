@@ -7,7 +7,7 @@ Web application developed to learning react concepts. This application allows to
 * [How to run](#head3)
 
 
-# <span id="head1">Blog Images<span/>
+# <span id="head1">1. Blog Images<span/>
 ### Login Page
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/login_page.PNG)
 
@@ -23,7 +23,7 @@ Web application developed to learning react concepts. This application allows to
 ### Updating a Post
 ![](https://github.com/GustavoHFMO/BlogReactJS/blob/master/blog_presentation/editting_post.PNG)
 
-# <span id="head2">Technologies<span/>
+# <span id="head2">2. Technologies<span/>
 * API
   * [bcrypt](https://github.com/kelektiv/node.bcrypt.js#readme)
   * [cors](https://github.com/expressjs/cors#readme)
@@ -39,7 +39,7 @@ Web application developed to learning react concepts. This application allows to
   * [react-router-dom](https://github.com/ReactTraining/react-router#readme)
   * [styled-components](https://styled-components.com/)
 
-# <span id="head3">How to run<span/>
+# <span id="head3">3. How to run<span/>
 ```
 # Cloning the repository
 $ https://github.com/GustavoHFMO/BlogReactJS.git
